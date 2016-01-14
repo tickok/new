@@ -3,3 +3,6 @@ for example
 
 happy
 just
+a new
+
+diff
